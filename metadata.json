@@ -1,0 +1,6 @@
+{
+  "name": "Training Site",
+  "description": "Comprehensive interactive training platform featuring modern technical courses, modules, hands-on challenges, quizzes, and verified certification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
